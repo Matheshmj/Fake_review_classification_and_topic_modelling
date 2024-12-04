@@ -8,7 +8,12 @@ The project incorporates two main functionalities. The first is fake review clas
 
 ### Fake Review Classification
 Classifies reviews as either genuine or fake using advanced machine learning and NLP techniques.
+
 **Models used:**
+
 1.Logistic Regression
+
 2.Random Forest
+
 3.DistilBERT (Fine-tuned Transformer Model)
+
