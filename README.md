@@ -21,7 +21,7 @@ The dataset used in this project consists of the following columns:
 ## Tools and Technologies
 The project is implemented using Python, utilizing libraries such as pandas and NumPy for data analysis. NLP tasks are handled using NLTK and spaCy, while scikit-learn is employed for machine learning. For topic modelling, gensim is used, and visualization is performed with matplotlib, seaborn, and wordcloud.
 
-### Machine Learning Models
+## Machine Learning Models
 The following machine learning models were used for fake review classification,
 
 1.Logistic Regression
@@ -34,7 +34,7 @@ The following machine learning models were used for fake review classification,
 
 5.Naive Bayes
 
-### Deep Learning Models
+## Deep Learning Models
 The following deep learning models were implemented for advanced classification tasks:
 
 1.RNN Model
@@ -73,9 +73,9 @@ Key features were extracted from the text data for use in the topic modelling al
 
 Two main models were implemented:
 
-**Latent Dirichlet Allocation (LDA):** Used to identify topics by grouping words with similar meanings.
+**1.Latent Dirichlet Allocation (LDA):** Used to identify topics by grouping words with similar meanings.
 
-**Non-Negative Matrix Factorization (NMF):** Used to extract meaningful components from the review data.
+**2.Non-Negative Matrix Factorization (NMF):** Used to extract meaningful components from the review data.
 
 ### Topic Display and Visualization
 
@@ -87,4 +87,6 @@ The classification model achieved 90% accuracy in detecting fake reviews. Key to
 ## Future Improvements
 Future enhancements could include integrating deep learning models like LSTMs or BERT for better classification performance. An end-to-end pipeline for real-time fake review detection can be developed. Additional exploration of topic modelling techniques, such as Non-Negative Matrix Factorization (NMF), can also be undertaken
 
-
+## contact 
+*mail id:* mathesh312020@gmail.com
+*linkedin id:* linkedin.com/in/mathesh-m-75b752202/ 
